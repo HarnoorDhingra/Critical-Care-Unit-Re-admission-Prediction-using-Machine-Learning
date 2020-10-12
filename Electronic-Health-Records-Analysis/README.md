@@ -6,8 +6,8 @@ PIC (Pediatric Intensive Care) is a large pediatric-specific single-center bilin
   
 The aim of the project is to identify sepsis and treat it using EHR records.  
 
-DATA EXPLOARATION:
-1. MIMIC - III:
+# DATA EXPLOARATION:
+## 1. MIMIC - III:
 <img width="500" alt="Screenshot 2020-10-12 at 2 02 49 PM" src="https://user-images.githubusercontent.com/45970634/95724723-54109c80-0c94-11eb-81df-f3a457de3790.png">
 Figure 1: Gender of patients.
 
@@ -21,9 +21,9 @@ Figure 3: Initial length of documents
 Figure 4: Length of documents after cleaning
 
 <img width="900" alt="Screenshot 2020-10-12 at 2 03 26 PM" src="https://user-images.githubusercontent.com/45970634/95725093-d0a37b00-0c94-11eb-90ab-5e7c70a54688.png">
-Figure 5: Documents per patient
+Figure 5: Documents per patient <br/>
 
-2. PIC: 
+## 2. PIC: 
 <img width="700" alt="Screenshot 2020-10-12 at 2 06 38 PM" src="https://user-images.githubusercontent.com/45970634/95725142-e4e77800-0c94-11eb-9eac-307509b49134.png">
 Figure 6: Gender of patients.
 

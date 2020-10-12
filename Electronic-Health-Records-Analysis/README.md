@@ -8,7 +8,7 @@ The aim of the project is to identify sepsis and treat it using EHR records.
 
 DATA EXPLOARATION:
 1. MIMIC - III:
-<img width="874" alt="Screenshot 2020-10-12 at 2 02 49 PM" src="https://user-images.githubusercontent.com/45970634/95724723-54109c80-0c94-11eb-81df-f3a457de3790.png">
+<img width="300" alt="Screenshot 2020-10-12 at 2 02 49 PM" src="https://user-images.githubusercontent.com/45970634/95724723-54109c80-0c94-11eb-81df-f3a457de3790.png">
 Figure 1: Gender of patients.
 
 <img width="914" alt="Screenshot 2020-10-12 at 2 04 54 PM" src="https://user-images.githubusercontent.com/45970634/95725323-26782300-0c95-11eb-821f-0361efe7d221.png">
@@ -24,7 +24,7 @@ Figure 4: Length of documents after cleaning
 Figure 5: Documents per patient
 
 2. PIC: 
-<img width="874" alt="Screenshot 2020-10-12 at 2 06 38 PM" src="https://user-images.githubusercontent.com/45970634/95725142-e4e77800-0c94-11eb-9eac-307509b49134.png">
+<img width="300" alt="Screenshot 2020-10-12 at 2 06 38 PM" src="https://user-images.githubusercontent.com/45970634/95725142-e4e77800-0c94-11eb-9eac-307509b49134.png">
 Figure 6: Gender of patients.
 
 <img width="874" alt="Screenshot 2020-10-12 at 2 06 51 PM" src="https://user-images.githubusercontent.com/45970634/95725237-06e0fa80-0c95-11eb-81e8-9421cd7bc734.png">

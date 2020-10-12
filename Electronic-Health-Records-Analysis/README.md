@@ -30,6 +30,7 @@ Figure 6: Gender of patients.
 <img width="900" alt="Screenshot 2020-10-12 at 2 06 51 PM" src="https://user-images.githubusercontent.com/45970634/95725237-06e0fa80-0c95-11eb-81e8-9421cd7bc734.png">
 Figure 7: Lab Tests Table
 
+# Sepsis:
 <img width="900" alt="Screenshot 2020-10-12 at 2 05 43 PM" src="https://user-images.githubusercontent.com/45970634/95725464-50314a00-0c95-11eb-8d8e-1feb9ebed7ec.png">
 Figure 8: Sepstic shock in patients - Time
 

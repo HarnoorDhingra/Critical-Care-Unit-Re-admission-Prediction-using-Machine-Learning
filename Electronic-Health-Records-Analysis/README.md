@@ -24,7 +24,7 @@ Figure 4: Length of documents after cleaning
 Figure 5: Documents per patient
 
 2. PIC: 
-<img width="500" alt="Screenshot 2020-10-12 at 2 06 38 PM" src="https://user-images.githubusercontent.com/45970634/95725142-e4e77800-0c94-11eb-9eac-307509b49134.png">
+<img width="700" alt="Screenshot 2020-10-12 at 2 06 38 PM" src="https://user-images.githubusercontent.com/45970634/95725142-e4e77800-0c94-11eb-9eac-307509b49134.png">
 Figure 6: Gender of patients.
 
 <img width="900" alt="Screenshot 2020-10-12 at 2 06 51 PM" src="https://user-images.githubusercontent.com/45970634/95725237-06e0fa80-0c95-11eb-81e8-9421cd7bc734.png">

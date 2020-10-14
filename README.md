@@ -1,4 +1,4 @@
-# Critical Care Unit Re-admission Prediction using Machine Learning
+# Critical Care Unit Re-admission Prediction using Machine Learning on Electronic Health Records
 MIMIC-III(Medical Information Mart for Intensive Care III) dataset used.  
 MIMIC is a relational database containing tables of data relating to patients who stayed within the intensive care units at Beth Israel Deaconess Medical Center.  
   
